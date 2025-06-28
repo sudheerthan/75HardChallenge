@@ -4,7 +4,7 @@ A Flutter mobile application to track your progress through the famous 75 Hard C
 
 ## 📲 Download the App
 
-➡️ **[Download Latest APK](https://github.com/sudheerthan/75HardChallenge/releases/latest/download/75HardChallenge-v1.0.0.apk)**  
+➡️ **[Download Latest APK](https://github.com/sudheerthan/75HardChallenge/releases/download/v1.0.0/the_75Days.apk)**  
 (*Click to install the app on your Android device*)
 
 
